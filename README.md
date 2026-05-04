@@ -1,5 +1,9 @@
 # reubenskuse
 
+Personal website for **reubenskuse.com**.
+
+## Run locally
+
 Simple personal website for **reubenskuse.com**.
 
 ## Run locally
