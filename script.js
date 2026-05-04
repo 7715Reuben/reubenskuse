@@ -14,3 +14,4 @@ const onScroll = () => {
 
 window.addEventListener('scroll', onScroll, { passive: true });
 onScroll();
+document.getElementById('year').textContent = new Date().getFullYear();
